@@ -1,5 +1,7 @@
 # Bundling C demo
 
+It's using https://github.com/xtuc/holyc for the compilation, I never tested on other platform than Linux.
+
 ## Usage
 
 Webpack:
