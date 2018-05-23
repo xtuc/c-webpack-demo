@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "holyc": "0.0.11",
+    "holyc": "0.0.12",
     "html-webpack-plugin": "^3.2.0",
     "http-server": "^0.11.1",
     "webpack": "^4.8.3",
