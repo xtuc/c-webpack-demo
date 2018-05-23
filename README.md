@@ -4,6 +4,11 @@ It's using https://github.com/xtuc/holyc for the compilation, I never tested on 
 
 ## Usage
 
+Install:
+```sh
+npm install
+```
+
 Webpack:
 ```sh
 webpack -w
