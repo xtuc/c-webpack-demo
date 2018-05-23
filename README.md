@@ -5,12 +5,12 @@ It's using https://github.com/xtuc/holyc for the compilation, I never tested on 
 ## Usage
 
 Webpack:
-```js
+```sh
 webpack -w
 ```
 
 Web server:
-```js
+```sh
 http-server .
 ```
 
