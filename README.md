@@ -1,6 +1,6 @@
 # Bundling C demo
 
-It's using https://github.com/xtuc/holyc for the compilation, I never tested on other platform than Linux.
+It's using https://github.com/xtuc/holyc for the compilation, It will likely **only work for Linux**.
 
 ## Usage
 
